@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This Github was created for the course *Webbutveckling II* and I am currently learning about Git and Github.
+This Github was created for the course *Webbutveckling II* where I am currently learning about Git and Github.
 
 <!--
 **beaabrahamsson/beaabrahamsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
