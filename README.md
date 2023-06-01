@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-This Github was created for the course *Webbutveckling II* where I am currently learning about Git and Github.
+This Github mainly contains projects that I have completed during the Webbutveckling program at Mittuniversitetet.
 
 **/Beatrice Abrahamsson**
